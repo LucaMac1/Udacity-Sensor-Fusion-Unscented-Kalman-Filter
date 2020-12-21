@@ -29,7 +29,7 @@ The red spheres above cars represent the (x,y) lidar detection and the purple li
 ---
 
 ## Other Important Dependencies
-* cmake >= 3.5
+* cmake >= 3.16
   * All OSes: [click here for installation instructions](https://cmake.org/install/)
 * make >= 4.1 (Linux, Mac), 3.81 (Windows)
   * Linux: make is installed by default on most Linux distros
